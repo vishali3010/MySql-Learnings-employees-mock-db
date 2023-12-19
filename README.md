@@ -1,4 +1,4 @@
-# MySql-Learnings-employees-mod-db
+# MySql-Learnings-employees-mock-db
 
 
 ### `employees` Table
